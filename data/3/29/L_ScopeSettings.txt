@@ -1,0 +1,16 @@
+Channel 1 Settings:
+Volts/Div: 10.000 V
+Position: -7.600 V
+Coupling: DC
+Invert: OFF
+Bandwith Limit: OFF
+Probe: 10X
+
+Channel 2 Settings:
+Volts/Div: 0.020 V
+Position: 0.010 V
+Coupling: AC
+Invert: OFF
+Bandwith Limit: OFF
+Probe: 1X
+
